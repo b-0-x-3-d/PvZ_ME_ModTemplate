@@ -1,0 +1,11 @@
+C:\Users\boxed\Downloads\ModTemplate\bin\x86\Debug\net471\ModTemplate.dll
+C:\Users\boxed\Downloads\ModTemplate\bin\x86\Debug\net471\ModTemplate.pdb
+C:\Users\boxed\Downloads\ModTemplate\bin\x86\Debug\net471\PVZMECSMainCore.dll
+C:\Users\boxed\Downloads\ModTemplate\obj\x86\Debug\net471\ModTemplate.csproj.AssemblyReference.cache
+C:\Users\boxed\Downloads\ModTemplate\obj\x86\Debug\net471\ModTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boxed\Downloads\ModTemplate\obj\x86\Debug\net471\ModTemplate.AssemblyInfoInputs.cache
+C:\Users\boxed\Downloads\ModTemplate\obj\x86\Debug\net471\ModTemplate.AssemblyInfo.cs
+C:\Users\boxed\Downloads\ModTemplate\obj\x86\Debug\net471\ModTemplate.csproj.CoreCompileInputs.cache
+C:\Users\boxed\Downloads\ModTemplate\obj\x86\Debug\net471\ModTemplate.csproj.CopyComplete
+C:\Users\boxed\Downloads\ModTemplate\obj\x86\Debug\net471\ModTemplate.dll
+C:\Users\boxed\Downloads\ModTemplate\obj\x86\Debug\net471\ModTemplate.pdb

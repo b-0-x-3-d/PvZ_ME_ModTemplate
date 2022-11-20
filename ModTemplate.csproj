@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+     <TargetFramework>net471</TargetFramework>
+
+        <Nullable>disable</Nullable>
+        <LangVersion>10</LangVersion>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PVZMECSMainCore">
+      <HintPath>PVZMECSMainCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
