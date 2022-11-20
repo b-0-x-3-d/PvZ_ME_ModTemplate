@@ -2,8 +2,8 @@
 REQUIRES: https://github.com/rspforhp/Plants-vs.-Zombies-Modders-Edition
 
 # What it does
- -Adds two new template plants
- -That's it for now
+- Adds two new template plants
+- That's it for now
 
 
 
